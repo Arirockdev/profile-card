@@ -107,6 +107,7 @@ img{
     margin-top: 5rem;
     color: var(--dark-gray);
     font-weight: var(--font-regular);
+    font-size: 2rem;
 }
 
 .main__title--item {
@@ -182,11 +183,14 @@ footer a:visited {
     }
 
     .avatar__img {
-        top: 100px;
+        top: 75px;
     }
 
     .first__div {
-        height: 150px;
+        height: 120px;
     }
 
+    .main__title{
+        margin-top: 7rem;
+    }
 }
